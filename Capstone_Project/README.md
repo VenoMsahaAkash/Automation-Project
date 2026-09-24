@@ -227,7 +227,7 @@ GitHub Repo/
 
 ## 👤 Author
 
-- **Student Name:** [Your Name]
+- **Student Name:** AKASH SAHA
 - **Course:** Software Test Automation with Selenium WebDriver
-- **Institution:** [Your Institution]
-- **Submission Deadline:** 28 September 2026
+- **Institution:** INSTITUATION OF ENGINEERING AND MANAGEMENT
+- 
