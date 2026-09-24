@@ -1,0 +1,29 @@
+{
+  "login": {
+    "email": "asaha9330@gmail.com",
+    "password": "helloakash",
+    "username": "Akash"
+  },
+  "product": {
+    "search_term": "Blue Top",
+    "expected_product_name": "Blue Top",
+    "quantity": 2,
+    "category": "Women > Tops"
+  },
+  "cart": {
+    "expected_items_count": 1,
+    "expected_quantity": 2
+  },
+  "urls": {
+    "base": "https://automationexercise.com",
+    "login": "https://automationexercise.com/login",
+    "products": "https://automationexercise.com/products",
+    "cart": "https://automationexercise.com/view_cart"
+  },
+  "browser": {
+    "type": "chrome",
+    "headless": false,
+    "implicit_wait": 10,
+    "explicit_wait": 15
+  }
+}

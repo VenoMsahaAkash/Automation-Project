@@ -1,0 +1,79 @@
+{
+  "generated_at": "2026-09-20 17:42:15",
+  "total": 10,
+  "passed": 10,
+  "failed": 0,
+  "skipped": 0,
+  "results": [
+    {
+      "test_name": "TC_01 — Launch Browser",
+      "status": "PASS",
+      "timestamp": "2026-09-20 17:41:30",
+      "details": "Title verified: 'Automation Exercise'",
+      "screenshot_path": "D:\\Capstone_Project\\screenshots\\20260920_174130_01_home_page_loaded.png"
+    },
+    {
+      "test_name": "TC_02 — Login",
+      "status": "PASS",
+      "timestamp": "2026-09-20 17:41:43",
+      "details": "Logged in as: 'Akash'",
+      "screenshot_path": "D:\\Capstone_Project\\screenshots\\20260920_174143_02b_after_login.png"
+    },
+    {
+      "test_name": "TC_03 — Search Product",
+      "status": "PASS",
+      "timestamp": "2026-09-20 17:41:45",
+      "details": "Found 'Blue Top' in 1 result(s).",
+      "screenshot_path": "D:\\Capstone_Project\\screenshots\\20260920_174145_03c_search_verified.png"
+    },
+    {
+      "test_name": "TC_04 — Add to Cart",
+      "status": "PASS",
+      "timestamp": "2026-09-20 17:41:50",
+      "details": "'Blue Top' added; modal: 'Added!'",
+      "screenshot_path": "D:\\Capstone_Project\\screenshots\\20260920_174149_04b_cart_modal_popup.png"
+    },
+    {
+      "test_name": "TC_05 — Update Quantity",
+      "status": "PASS",
+      "timestamp": "2026-09-20 17:41:54",
+      "details": "Quantity set to 2 — cart shows: '2'.",
+      "screenshot_path": "D:\\Capstone_Project\\screenshots\\20260920_174154_05_cart_after_quantity_update.png"
+    },
+    {
+      "test_name": "TC_06 — Verify Cart Details",
+      "status": "PASS",
+      "timestamp": "2026-09-20 17:41:55",
+      "details": "Product='Blue Top', Qty='2', Items=1",
+      "screenshot_path": "D:\\Capstone_Project\\screenshots\\20260920_174155_06_cart_details_verified.png"
+    },
+    {
+      "test_name": "TC_07 — Capture Screenshots",
+      "status": "PASS",
+      "timestamp": "2026-09-20 17:41:55",
+      "details": "18 screenshots captured in 'D:\\Capstone_Project\\screenshots'",
+      "screenshot_path": "D:\\Capstone_Project\\screenshots\\20260920_174155_07_final_screenshot_verification.png"
+    },
+    {
+      "test_name": "TC_08 — Read Test Data",
+      "status": "PASS",
+      "timestamp": "2026-09-20 17:41:55",
+      "details": "JSON & Excel data verified. Email='asaha9330@gmail.com', Product='Blue Top'",
+      "screenshot_path": "D:\\Capstone_Project\\screenshots\\20260920_174155_08_data_reading_verified.png"
+    },
+    {
+      "test_name": "TC_09 — Handle Popup/Alerts",
+      "status": "PASS",
+      "timestamp": "2026-09-20 17:42:04",
+      "details": "JS alert: None. Cart modal: Dismissed.",
+      "screenshot_path": "D:\\Capstone_Project\\screenshots\\20260920_174201_09_popup_modal_handled.png"
+    },
+    {
+      "test_name": "TC_10 — Generate Report",
+      "status": "PASS",
+      "timestamp": "2026-09-20 17:42:15",
+      "details": "Reports directory verified; JSON report saved.",
+      "screenshot_path": "D:\\Capstone_Project\\screenshots\\20260920_174215_10_final_state_report.png"
+    }
+  ]
+}
